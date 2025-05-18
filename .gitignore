@@ -1,2 +1,4 @@
-tweets-data\bencana-alam.csv
-tweets-data\etikaAI.old.csv
+tweets-data
+tweets-data/bencana-alam.csv
+tweets-data/bencana-alam.csv
+auth.key
